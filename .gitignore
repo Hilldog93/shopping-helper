@@ -1,3 +1,4 @@
 .agents/
 .claude/
 records/
+.DS_Store
